@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Idriss Douiri</h1>
+<link href="style.css" rel="stylesheet" type="text/css">
+
+# Hi 👋, I'm Idriss Douiri{ .center }
+
 <h3 align="center">a web developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrodriss&label=Profile%20views&color=0e75b6&style=flat" alt="astrodriss" /> </p>
@@ -20,5 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astrodriss&show_icons=true&locale=en" alt="astrodriss" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astrodriss&" alt="astrodriss" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AstroDriss&theme=synthwave&hide_border=true&border_radius=13.5)
 
+<div class="grid">
+    <p>test</p>
+    <p>test</p>
+</div>
