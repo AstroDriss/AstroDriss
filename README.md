@@ -1,6 +1,4 @@
-<link href="style.css" rel="stylesheet" type="text/css">
-
-# Hi 👋, I'm Idriss Douiri{ .center }
+# Hi 👋, I'm Idriss Douiri
 
 <h3 align="center">a web developer from Morocco</h3>
 
@@ -25,7 +23,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AstroDriss&theme=synthwave&hide_border=true&border_radius=13.5)
 
-<div class="grid">
+<div style="display: grid;grid-template-columns: 1fr 1fr;">
     <p>test</p>
     <p>test</p>
 </div>
