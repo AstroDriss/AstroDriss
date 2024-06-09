@@ -19,7 +19,7 @@
 
 [CSS New Features You Should Know in 2024](https://douiri.org/css-new-features-2024/) - 2024-04-08
 
-[Calculating Relative Mouse Angles in JavaScript Using atan2()](https://douiri.org/javascript-mouse-angle/) - 2024-05-18
+[Top 10 Chrome Extensions for Frontend Developers in 2024](https://douiri.org/frontend-chrome-extensions/) - 2024-06-09
 <!-- blog end -->
 
 <h3 align="left">Connect with me:</h3>
