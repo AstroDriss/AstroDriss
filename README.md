@@ -11,15 +11,15 @@
 ## Latest Articles
 
 <!-- blog start -->
-[Best 15 VSCode Extensions for better coding experience](https://douiri.org/best-vscode-extensions/) - 2024-03-18
+[January 2025 Web Roundup](https://douiri.org/blog/round-up-january-2025/) - 2025-02-01
 
-[Write Clean JavaScript Code: Essential Tips](https://douiri.org/clean-javascript-tips/) - 2024-04-14
+[Toggle Switches - What are They and How to Make Them Accessible for The Web](https://douiri.org/blog/toggle-switch-css-only/) - 2025-01-23
 
-[write HTML & CSS faster with Emmet Abbreviations](https://douiri.org/code-faster-with-emmet-abbreviations/) - 2024-03-09
+[Month Round-up: What You Missed in December 2024](https://douiri.org/blog/web-recap-december-2024/) - 2025-01-02
 
-[CSS New Features You Should Know in 2024](https://douiri.org/css-new-features-2024/) - 2024-04-08
+[How to Animate to Height Auto in Modern CSS](https://douiri.org/blog/animate-to-height-auto-in-css/) - 2024-12-15
 
-[Top 10 Chrome Extensions for Frontend Developers in 2024](https://douiri.org/frontend-chrome-extensions/) - 2024-06-09
+[Advanced Chrome DevTools Features Every Developer Should Know](https://douiri.org/blog/chrome-devtools-features/) - 2024-11-23
 <!-- blog end -->
 
 <h3 align="left">Connect with me:</h3>
