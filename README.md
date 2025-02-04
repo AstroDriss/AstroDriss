@@ -11,6 +11,8 @@
 ## Latest Articles
 
 <!-- blog start -->
+[Fix Footer at Bottom of the Page with CSS (Even with Little Content)](https://douiri.org/blog/fix-footer-bottom-css/) - 2025-02-04
+
 [January 2025 Web Roundup](https://douiri.org/blog/round-up-january-2025/) - 2025-02-01
 
 [Toggle Switches - What are They and How to Make Them Accessible for The Web](https://douiri.org/blog/toggle-switch-css-only/) - 2025-01-23
@@ -18,8 +20,6 @@
 [Month Round-up: What You Missed in December 2024](https://douiri.org/blog/web-recap-december-2024/) - 2025-01-02
 
 [How to Animate to Height Auto in Modern CSS](https://douiri.org/blog/animate-to-height-auto-in-css/) - 2024-12-15
-
-[Advanced Chrome DevTools Features Every Developer Should Know](https://douiri.org/blog/chrome-devtools-features/) - 2024-11-23
 <!-- blog end -->
 
 <h3 align="left">Connect with me:</h3>
