@@ -1,0 +1,24 @@
+{
+  "name": "astrodriss",
+  "version": "1.0.0",
+  "description": "<h3 align=\"left\">a web developer from Morocco</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstroDriss/AstroDriss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AstroDriss/AstroDriss/issues"
+  },
+  "homepage": "https://github.com/AstroDriss/AstroDriss#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

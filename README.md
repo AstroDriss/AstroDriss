@@ -11,15 +11,11 @@
 ## Latest Articles
 
 <!-- blog start -->
-[Best Free Static Website Hosting Providers - Pros and Cons of Each](https://douiri.org/blog/free-website-host/) - 2025-02-22
-
-[How to Trigger "Unsaved Changes" Alert in Your Web App to prevent Data Loss](https://douiri.org/blog/unsaved-changes-alert/) - 2025-02-08
-
-[Fix Footer at Bottom of the Page with CSS (Even with Little Content)](https://douiri.org/blog/fix-footer-bottom-css/) - 2025-02-04
-
-[January 2025 Web Roundup](https://douiri.org/blog/round-up-january-2025/) - 2025-02-01
-
-[Toggle Switches - What are They and How to Make Them Accessible for The Web](https://douiri.org/blog/toggle-switch-css-only/) - 2025-01-23
+- [How to Map Values from one Range to Another in JavaScript](https://douiri.org/blog/range-mapping/) - 2025-07-08
+- [How to Make Gradient Borders with CSS](https://douiri.org/blog/css-gradient-border/) - 2025-06-10
+- [async vs defer Attributes for script Elements](https://douiri.org/blog/defer-vs-async/) - 2025-03-23
+- [Best Free Static Website Hosting Providers - Pros and Cons of Each](https://douiri.org/blog/free-website-host/) - 2025-02-22
+- [How to Trigger "Unsaved Changes" Alert in Your Web App to prevent Data Loss](https://douiri.org/blog/unsaved-changes-alert/) - 2025-02-08
 <!-- blog end -->
 
 <h3 align="left">Connect with me:</h3>
