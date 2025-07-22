@@ -10,7 +10,10 @@ const parser = new Parser();
  */
 const formatFeedEntry = ({ title, link, isoDate }) => {
   const date = isoDate ? new Date(isoDate).toISOString().slice(0, 10) : "";
-  return date ? `- [${title}](${link}) - ${date}` : `[${title}](${link})`;
+  const utm = "?utm_source=github&utm_medium=profile-readme";
+  return date
+    ? `- [${title}](${link}${utm}) - ${date}`
+    : `- [${title}](${link}${utm})`;
 };
 
 const feed = await parser.parseURL(RSS_URL);

@@ -11,12 +11,17 @@
 ## Latest Articles
 
 <!-- blog start -->
-- [How to Map Values from one Range to Another in JavaScript](https://douiri.org/blog/range-mapping/) - 2025-07-08
-- [How to Make Gradient Borders with CSS](https://douiri.org/blog/css-gradient-border/) - 2025-06-10
-- [async vs defer Attributes for script Elements](https://douiri.org/blog/defer-vs-async/) - 2025-03-23
-- [Best Free Static Website Hosting Providers - Pros and Cons of Each](https://douiri.org/blog/free-website-host/) - 2025-02-22
-- [How to Trigger "Unsaved Changes" Alert in Your Web App to prevent Data Loss](https://douiri.org/blog/unsaved-changes-alert/) - 2025-02-08
+
+- [How to Map Values from one Range to Another in JavaScript](https://douiri.org/blog/range-mapping/?utm_source=github&utm_medium=profile-readme) - 2025-07-08
+- [How to Make Gradient Borders with CSS](https://douiri.org/blog/css-gradient-border/?utm_source=github&utm_medium=profile-readme) - 2025-06-10
+- [async vs defer Attributes for script Elements](https://douiri.org/blog/defer-vs-async/?utm_source=github&utm_medium=profile-readme) - 2025-03-23
+- [Best Free Static Website Hosting Providers - Pros and Cons of Each](https://douiri.org/blog/free-website-host/?utm_source=github&utm_medium=profile-readme) - 2025-02-22
+- [How to Trigger "Unsaved Changes" Alert in Your Web App to prevent Data Loss](https://douiri.org/blog/unsaved-changes-alert/?utm_source=github&utm_medium=profile-readme) - 2025-02-08
 <!-- blog end -->
+
+## Tools
+
+- [CSS Inverted Border Radius Generator](https://corner-inverter.douiri.org?utm_source=github&utm_medium=profile-readme)
 
 <h3 align="left">Connect with me:</h3>
 
