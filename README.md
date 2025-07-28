@@ -11,7 +11,6 @@
 ## Latest Articles
 
 <!-- blog start -->
-
 - [How to Map Values from one Range to Another in JavaScript](https://douiri.org/blog/range-mapping/?utm_source=github&utm_medium=profile-readme) - 2025-07-08
 - [How to Make Gradient Borders with CSS](https://douiri.org/blog/css-gradient-border/?utm_source=github&utm_medium=profile-readme) - 2025-06-10
 - [async vs defer Attributes for script Elements](https://douiri.org/blog/defer-vs-async/?utm_source=github&utm_medium=profile-readme) - 2025-03-23
