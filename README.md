@@ -11,11 +11,11 @@
 ## Latest Articles
 
 <!-- blog start -->
+- [How to Make an Inverted border-radius in CSS (with diagrams)](https://douiri.org/blog/inverted-border-radius/?utm_source=github&utm_medium=profile-readme) - 2025-08-24
 - [Beginner's Guide to Web Hosting Types (With Pros and Cons)](https://douiri.org/blog/types-of-web-hosting/?utm_source=github&utm_medium=profile-readme) - 2025-07-28
 - [How to Map Values from one Range to Another in JavaScript](https://douiri.org/blog/range-mapping/?utm_source=github&utm_medium=profile-readme) - 2025-07-08
 - [How to Make Gradient Borders with CSS](https://douiri.org/blog/css-gradient-border/?utm_source=github&utm_medium=profile-readme) - 2025-06-10
 - [async vs defer Attributes for script Elements](https://douiri.org/blog/defer-vs-async/?utm_source=github&utm_medium=profile-readme) - 2025-03-23
-- [Best Free Static Website Hosting Providers - Pros and Cons of Each](https://douiri.org/blog/free-website-host/?utm_source=github&utm_medium=profile-readme) - 2025-02-22
 <!-- blog end -->
 
 ## Tools
