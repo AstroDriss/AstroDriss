@@ -27,6 +27,7 @@
 
 ![libfg](https://github.com/leogaudin/42_project_badges/raw/main/badges/libft.webp)
 ![ft_printf](https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp)
+![ft_printf](https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp)
 
 <h3 align="left">Connect with me:</h3>
 
